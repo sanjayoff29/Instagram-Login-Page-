@@ -1,0 +1,1 @@
+"This project is a clone of the Instagram login page, featuring a user-friendly interface for login with options for account recovery. The design mimics the original layout but is currently not responsive, limiting its usability across different devices."
